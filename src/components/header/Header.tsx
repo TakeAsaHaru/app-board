@@ -11,7 +11,7 @@ const Header: React.FC = () => {
       <AppBar position="static" className={styles.app_bar}>
         <Toolbar className={styles.tool_bar}>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            News
+            Redux Toolkit Todo
           </Typography>
         </Toolbar>
       </AppBar>
